@@ -1,9 +1,9 @@
 name: flutter_fgbg_module
 description: "JuneFlow Module"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/flutter_fgbg_module
 
-version: 0.0.1+1
+version: 0.0.1+4
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -14,6 +14,7 @@ dependencies:
   go_router: ^13.2.0
   june_flow_util:
   flutter_fgbg: ^0.3.0 #@add
+  easy_event_bus: ^0.8.2 #@add
 
 dev_dependencies:
   flutter_test:
