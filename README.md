@@ -1,6 +1,12 @@
 [![pub package](https://img.shields.io/pub/v/flutter_fgbg_module.svg)](https://pub.dartlang.org/packages/flutter_fgbg_module)
 
+<p>
+  <a href="https://github.com/melodysdreamj/juneflow">Juneflow</a> •
+  <a href="https://doc.juneflow.org/get-started">Documentation</a>
+</p>
+
 # flutter_fgbg_module
+
 This is a module that notifies you when the app goes into the background or comes to the foreground.
 
 ##  Installation
