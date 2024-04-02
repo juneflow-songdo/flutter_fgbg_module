@@ -1,9 +1,9 @@
 name: flutter_fgbg_module
-description: "JuneFlow Module"
+description: "This is a module that notifies you when the app goes into the background or comes to the foreground"
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/flutter_fgbg_module
 
-version: 0.0.1+5
+version: 1.0.0
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
